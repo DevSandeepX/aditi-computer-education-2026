@@ -1,0 +1,45 @@
+** Heading:**
+    Learn Today.Build Your Future.
+
+** Subheading:**
+    Practical Computer Education for a Better Career
+
+** Description:**
+   Build job - ready computer skills with practical training, experienced guidance, and industry - relevant courses.Start learning today and take the next step toward your career goals.
+
+** Primary Button:**
+    Explore Courses
+
+** Secondary Button:**
+    Contact Us
+
+
+******************************************
+**Section Label:**
+WHY CHOOSE ADITI
+
+**Heading:**
+Learn the Skills That Shape Your Future
+
+**Subheading:**
+Practical Education. Real Skills. Better Opportunities.
+
+**Description:**
+At Aditi Computer Education, we focus on practical and career-oriented computer education. Our courses are designed to help students understand technology, develop useful skills, and gain the confidence they need for their academic and professional journey.
+
+**Button:**
+Know More About Us
+
+
+***************************************************
+**Section Label:**
+OUR COURSES
+
+**Heading:**
+Explore Our Computer Courses
+
+**Description:**
+Choose from a range of computer courses designed for beginners, students, and aspiring professionals. Learn at your own pace with practical training and structured guidance.
+
+**Button:**
+View All Courses

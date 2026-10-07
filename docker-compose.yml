@@ -1,0 +1,19 @@
+services:
+  postgres:
+    image: postgres:17
+    container_name: aditi_computer_education_postgres_data_postgres
+    restart: unless-stopped
+
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: aditi_computer_education_db
+
+    ports:
+      - "5432:5432"
+
+    volumes:
+      - aditi_computer_education_postgres_data:/var/lib/postgresql/data
+
+volumes:
+  aditi_computer_education_postgres_data:
